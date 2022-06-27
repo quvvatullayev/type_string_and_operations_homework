@@ -6,6 +6,6 @@ def main():
         str: return answer.
     """
     satir = "Quvvatullayev"
-    return satir[0:9]
+    return satir[0:8]
 
 print(main())

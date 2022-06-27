@@ -1,3 +1,6 @@
+import string
+
+
 def main(s1,s2):
     """
     s1 and s2 strings are given. return the result by adding a space (" ") between them.
@@ -7,4 +10,7 @@ def main(s1,s2):
     Returns:
         str: return answer.
     """
-    return 
+    stirng = f'''{s1}" "{s2}'''
+    return stirng
+
+print(main("quvvatullayev", "Ogabek"))

@@ -6,4 +6,7 @@ def main():
     Returns:
         str: return answer.
     """
-    return 
+    stiring = "*"
+    return stiring*5
+
+print(main())

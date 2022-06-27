@@ -10,7 +10,7 @@ def main(s1,s2):
     Returns:
         str: return answer.
     """
-    stirng = f'''{s1}" "{s2}'''
-    return stirng
+    
+    return s1, " ", s2
 
 print(main("quvvatullayev", "Ogabek"))

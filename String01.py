@@ -5,4 +5,7 @@ def main():
     Returns:
         str: return answer.
     """
-    return "Quvvatullayev"
+    satir = "Quvvatullayev"
+    return satir[0:9]
+
+print(main())

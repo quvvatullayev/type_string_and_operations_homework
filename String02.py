@@ -7,4 +7,6 @@ def main():
         str: return answer.
     """
     satir = "yuq"
-    return satir[0]
+    return satir.upper()
+
+print(main())

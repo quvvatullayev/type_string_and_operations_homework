@@ -6,4 +6,5 @@ def main():
     Returns:
         str: return answer.
     """
-    return 
+    satir = "yuq"
+    return satir[0]
